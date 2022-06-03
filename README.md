@@ -1,4 +1,3 @@
-###  
 - 👋 Hi, I'm Ying Chai (@yingch08)
 - 👩🏻‍🎓 Grad student at the University of Maryland
 - 💬 Data researcher & Story teller
