@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ying Chai (@yingch08)
 - 👩🏻‍🎓 Grad student at the University of Maryland
-- 💬 Data Analyst & Story teller
+- 💬 Data Analyst & Storyteller
 - 😄 Passionate about Data Science, ML & AI
 - 🔭 Work on Python & SQL & R
 - 📫 Reach me: cyshell278@gmail.com
