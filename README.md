@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Ying Chai (@yingch08)
-- 👩🏻‍🎓 Grad student at the University of Maryland
+- 👩🏻‍🎓 Grad student at the University of Maryland, College Park, majoring in Business Analytics
 - 💬 Data Analyst & Storyteller
 - 😄 Passionate about Data Science, ML & AI
 - 🔭 Work on Python & SQL & R
-- 📫 Reach me: cyshell278@gmail.com
+- 📫 Reach me: yingchai0827@gmail.com
